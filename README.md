@@ -35,11 +35,12 @@ titles.csv – Job titles held by employees over time.
 
 Defined table structures based on the CSV data and then establish primary and foreign key relationships. Created a SQL Postgres database tables to store all the data.
 
-## Data Analysis
-Finally created queries to answer following questions asked.
+## Data Engineering
+
 Defined table structures based on the CSV data and then established primary and foreign key relationships. Created a SQL Postgres database tables to store all the data.
 
 ## Data Analysis
+
 Finally created queries to answer following questions asked to understand teh data better using joins and aggregations.
 
 List the employee number, last name, first name, sex, and salary of each employee 
