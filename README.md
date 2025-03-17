@@ -1,4 +1,5 @@
 # sql-challenge
+
 # Pewlett Hackard Employee Database Analysis
 
 ## Project Overview
@@ -32,10 +33,17 @@ titles.csv – Job titles held by employees over time.
 
 ## Database Design
 
+<<<<<<< HEAD
 Defined table structures based on the CSV data and then establish primary and foreign key relationships. Created a SQL Postgres database and stored data in tables to store all the data.
 
 ## Data Analysis
 Finally created queries to answer following questions asked.
+=======
+Defined table structures based on the CSV data and then established primary and foreign key relationships. Created a SQL Postgres database tables to store all the data.
+
+## Data Analysis
+Finally created queries to answer following questions asked to understand teh data better using joins and aggregations.
+>>>>>>> e50129b0fd89e11658e56fa2a0502f42707e1836
 
 List the employee number, last name, first name, sex, and salary of each employee 
 
@@ -51,4 +59,8 @@ List each employee in the Sales department, including their employee number, las
 
 List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name 
 
+<<<<<<< HEAD
 List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name) 
+=======
+List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name) 
+>>>>>>> e50129b0fd89e11658e56fa2a0502f42707e1836
