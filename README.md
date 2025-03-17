@@ -32,7 +32,7 @@ titles.csv – Job titles held by employees over time.
 
 ## Database Design
 
-Defined table structures based on the CSV data and then established primary and foreign key relationships. Created a SQL Postgres database and stored data in tables to store all the data.
+Defined table structures based on the CSV data and then established primary and foreign key relationships. Created a SQL Postgres database tables to store all the data.
 
 ## Data Analysis
 Finally created queries to answer following questions asked to understand teh data better using joins and aggregations.
