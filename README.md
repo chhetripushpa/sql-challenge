@@ -1,5 +1,3 @@
-# sql-challenge
-
 # Pewlett Hackard Employee Database Analysis
 
 ## Project Overview
